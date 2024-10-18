@@ -1,37 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### Weather App
 
-## Getting Started
+## Description
 
-First, run the development server:
+Stay informed and prepared with our Weather App, your ultimate companion for real-time weather updates and forecasts! Designed with a user-friendly interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Real-Time Forecasts:** Get up-to-the-minute weather conditions, including temperature, humidity, wind speed, and atmospheric pressure.
+  
+- **Hourly and Daily Forecasts:** Plan your day or week ahead with detailed hourly forecasts and a comprehensive five-day outlook.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Interactive Weather Maps:** Explore radar imagery and satellite maps to track weather patterns and changes in real-time.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Air Quality Monitoring:** Stay aware of air quality levels in your area with our dedicated air quality feature, providing valuable data for sensitive groups.
 
-## Learn More
+- **UV Index Reports:** Protect your skin with UV index notifications that help you plan outdoor activities safely.
 
-To learn more about Next.js, take a look at the following resources:
+- **Customizable Locations:** Add multiple locations to monitor the weather in different areas, making it perfect for travelers or those with family and friends in other regions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Beautiful Weather Icons:** Enjoy visually engaging weather icons that represent current conditions, making it easy to understand the forecast at a glance.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Dark Mode Support:** Switch to dark mode for a comfortable viewing experience, especially in low-light environments.
 
-## Deploy on Vercel
+## Why Choose Our Weather App?
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Whether you're planning a trip, heading out for outdoor activities, or simply want to know how to dress for the day, our Weather App delivers the information you need at your fingertips. With a focus on accuracy and user experience, our app ensures you are always prepared for whatever Mother Nature throws your way!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# WeatherApp
+### :hammer_and_wrench: Languages and Tools :
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ScreenShot :
+<img width="1661" alt="weather_App" src="https://github.com/user-attachments/assets/d854d62c-ed1d-42f1-80a3-a98002a50e45">
